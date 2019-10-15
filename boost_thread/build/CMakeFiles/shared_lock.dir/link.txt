@@ -1,0 +1,1 @@
+g++  -Wall  -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/shared_lock.dir/src/shared_lock.cpp.o  -o shared_lock -lboost_system -lboost_thread -lpthread -lboost_chrono -lboost_date_time -lboost_atomic 

@@ -1,0 +1,1 @@
+g++  -Wall  -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/unique_lock_mutex.dir/src/unique_lock_mutex.cpp.o  -o unique_lock_mutex -lboost_system -lboost_thread -lpthread -lboost_chrono -lboost_date_time -lboost_atomic 

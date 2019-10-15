@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhangbo/Workspace/C++/boost_thread/src/mutex.cpp
+string.h
+-
+cstdio
+-
+stack
+-
+queue
+-
+boost/thread.hpp
+-
+iostream
+-
+

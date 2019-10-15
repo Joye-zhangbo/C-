@@ -1,0 +1,1 @@
+g++  -Wall  -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/thread_local_storage.dir/src/thread_local_storage.cpp.o  -o thread_local_storage -lboost_system -lboost_thread -lpthread -lboost_chrono -lboost_date_time -lboost_atomic 
